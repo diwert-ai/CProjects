@@ -1,10 +1,11 @@
+#pragma warning(disable : 4996)
+
 #include <windows.h>
 #include <winnt.h>
 #include <stdio.h>
 #include <fcntl.h>
 #include <time.h>
 
-#define _CRT_SECURE_NO_WARNINGS
 
 char* data_directory_name[IMAGE_NUMBEROF_DIRECTORY_ENTRIES] = {
 "Export Table","Import Table","Resource Table","Exception Table",
