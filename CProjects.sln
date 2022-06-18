@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "huffman", "huffman\huffman.vcxproj", "{15D976A7-FA0E-4AD1-A5C1-7EAF34865FC6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "peview", "peview\peview.vcxproj", "{DC47766B-FC8A-48FF-8868-26662FD290CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{15D976A7-FA0E-4AD1-A5C1-7EAF34865FC6}.Release|x64.Build.0 = Release|x64
 		{15D976A7-FA0E-4AD1-A5C1-7EAF34865FC6}.Release|x86.ActiveCfg = Release|Win32
 		{15D976A7-FA0E-4AD1-A5C1-7EAF34865FC6}.Release|x86.Build.0 = Release|Win32
+		{DC47766B-FC8A-48FF-8868-26662FD290CA}.Debug|x64.ActiveCfg = Debug|x64
+		{DC47766B-FC8A-48FF-8868-26662FD290CA}.Debug|x64.Build.0 = Debug|x64
+		{DC47766B-FC8A-48FF-8868-26662FD290CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC47766B-FC8A-48FF-8868-26662FD290CA}.Debug|x86.Build.0 = Debug|Win32
+		{DC47766B-FC8A-48FF-8868-26662FD290CA}.Release|x64.ActiveCfg = Release|x64
+		{DC47766B-FC8A-48FF-8868-26662FD290CA}.Release|x64.Build.0 = Release|x64
+		{DC47766B-FC8A-48FF-8868-26662FD290CA}.Release|x86.ActiveCfg = Release|Win32
+		{DC47766B-FC8A-48FF-8868-26662FD290CA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
